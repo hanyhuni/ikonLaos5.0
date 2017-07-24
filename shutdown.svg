@@ -16,10 +16,10 @@
    width="1496"
    height="1449"
    viewBox="0 0 1496 1449"
-   sodipodi:docname="writer-logo.svg"
-   inkscape:export-filename="/home/dallasarivle/Pictures/writer.png"
-   inkscape:export-xdpi="88"
-   inkscape:export-ydpi="88">
+   sodipodi:docname="shutdown.svg"
+   inkscape:export-filename="/home/dallasarivle/Pictures/laos5.0/shutdown.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
   <metadata
      id="metadata4196">
     <rdf:RDF>
@@ -47,20 +47,26 @@
      inkscape:window-height="712"
      id="namedview4192"
      showgrid="false"
-     inkscape:zoom="0.36438923"
-     inkscape:cx="329.39361"
-     inkscape:cy="639.27163"
+     inkscape:zoom="0.46987648"
+     inkscape:cx="667.81854"
+     inkscape:cy="767.76481"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4190" />
+  <circle
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d80027;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4152"
+     cx="613.25586"
+     cy="640.89777"
+     r="241" />
   <image
-     sodipodi:absref="/home/dallasarivle/Pictures/laos5.0/writer.png"
-     xlink:href="writer.png"
-     width="512.38635"
-     height="512.38635"
+     sodipodi:absref="/home/dallasarivle/Downloads/icon.png"
+     y="476.04669"
+     x="452.31226"
+     id="image4212"
+     xlink:href="file:///home/dallasarivle/Downloads/icon.png"
      preserveAspectRatio="none"
-     id="image4802"
-     x="320.11365"
-     y="336.57956" />
+     height="326.84497"
+     width="326.84497" />
 </svg>

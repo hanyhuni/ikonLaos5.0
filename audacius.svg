@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4190"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="1496"
+   height="1449"
+   viewBox="0 0 1496 1449"
+   sodipodi:docname="audacius.svg"
+   inkscape:export-filename="/home/dallasarivle/Pictures/laos5.0/audacius.png"
+   inkscape:export-xdpi="89.999992"
+   inkscape:export-ydpi="89.999992">
+  <metadata
+     id="metadata4196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4194">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5706">
+      <stop
+         style="stop-color:#067fff;stop-opacity:1;"
+         offset="0"
+         id="stop5708" />
+      <stop
+         style="stop-color:#067fff;stop-opacity:0;"
+         offset="1"
+         id="stop5710" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4240">
+      <stop
+         style="stop-color:#007fff;stop-opacity:1"
+         offset="0"
+         id="stop4242" />
+      <stop
+         style="stop-color:#2a7fff;stop-opacity:0;"
+         offset="1"
+         id="stop4244" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4240"
+       id="linearGradient4246"
+       x1="440.8638"
+       y1="381.65344"
+       x2="1057.1479"
+       y2="1062.2444"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5706"
+       id="linearGradient5714"
+       x1="823.62012"
+       y1="711.1153"
+       x2="921.64258"
+       y2="711.1153"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="712"
+     id="namedview4192"
+     showgrid="false"
+     inkscape:zoom="0.36438923"
+     inkscape:cx="255.76984"
+     inkscape:cy="920.17693"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4190" />
+  <circle
+     style="opacity:0.99999999;fill:url(#linearGradient4246);fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-rule:nonzero"
+     id="path4152"
+     cx="628.25586"
+     cy="625.89777"
+     r="256" />
+  <circle
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:30;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4152-5"
+     cx="629.70453"
+     cy="627.70453"
+     r="137.99432" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot4256"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:180px;line-height:125%;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#007fff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     transform="matrix(1.167981,0,0,1.0367644,-388.08548,-115.54148)"><flowRegion
+       id="flowRegion4258"
+       style="fill-opacity:1;fill:url(#linearGradient5714)"><rect
+         id="rect4260"
+         width="697.05682"
+         height="493.97729"
+         x="524.16479"
+         y="532.39771"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:180px;font-family:Oswald;-inkscape-font-specification:'Oswald Semi-Bold';fill:#007fff;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara4262"
+       style="font-size:250px;text-align:center;text-anchor:middle;fill-opacity:1;fill:#007fff;">a</flowPara></flowRoot></svg>
