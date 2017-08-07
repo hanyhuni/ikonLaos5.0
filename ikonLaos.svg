@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -39,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-127.85714"
-     inkscape:cy="520"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="356.34139"
+     inkscape:cy="632.12621"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,15 +65,32 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <image
-       sodipodi:absref="/home/dallasarivle/Pictures/karya/linux distro.png"
-       xlink:href="karya/linux distro.png"
-       clip-path="url(#clipPath4239)"
-       width="734.85712"
-       height="683.42859"
-       preserveAspectRatio="none"
-       id="image4233"
-       x="30.285715"
-       y="176.3622" />
-  </g>
+    <circle
+       style="opacity:1;fill:#1fa465;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4138"
+       cx="390.28571"
+       cy="446.36218"
+       r="256"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 344.28571,628.0765 c 0,0 -129.22359,-81.20778 -16.56907,-261.60673 27.07644,-43.35878 82.93217,-74.94903 140.85479,-132.67899 17.0531,-16.99638 42.5505,100.48918 27.65856,154.81865 -14.91234,54.40388 -68.55474,93.06818 -88.63652,134.70972 -20.80768,43.14676 -11.65781,110.07731 13.8351,130.47163 0,0 -163.434,-40.84824 2.92439,-224.25553 23.58336,-26.00025 4.14769,-77.74369 4.14769,-77.74369 -165.54318,118.47258 -94.06132,282.19277 -84.21494,276.28494 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscscc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-3.2142857,0.6428572)"><flowRegion
+         id="flowRegion4142"><rect
+           id="rect4144"
+           width="75.714279"
+           height="57.142857"
+           x="428.57144"
+           y="619.50507"
+           style="font-size:22.5px" /></flowRegion><flowPara
+         id="flowPara4146"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'Oswald Regular';-inkscape-font-specification:'Oswald Regular, ';fill:#ffffff;fill-opacity:1">TM</flowPara></flowRoot>  </g>
 </svg>
